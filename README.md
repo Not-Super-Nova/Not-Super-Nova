@@ -9,8 +9,6 @@ You can reach me at:
 - novawittam@pm.me (<48hrs, encrypted)
 - @novaw:matrix.org (<12hrs)
 
-I'm currently working with [Liv](https://github.com/l1ving), in [Technically Functional](https://github.com/technically-functional), on the Heartbeat ecosystem, platform-agonistic service for showing a "last seen online" service, with support for multiple devices, and future planned support for much more!
-
 Feel free to sponsor me through GitHub Sponsorships, or at [https://monzo.me/novawittam](https://monzo.me/novawittam/5.00), if you like what I'm doing.
 
 <!--
