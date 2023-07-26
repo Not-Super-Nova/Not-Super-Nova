@@ -1,7 +1,7 @@
 ### Hi, I'm Nova.
 
 I'm a young software developer living in Suffolk, England.
-Currently I mainly write Android apps in Kotlin, though I have experience with many other languages.
+I'm currently flitting back and forth between languages like an ADHD squirrel.
 My goal is to provide useful code that actually makes an impact, and to get either gainful employment in software development or enough contributions and donations that I don't have to.
 
 You can reach me at:
