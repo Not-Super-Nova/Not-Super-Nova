@@ -7,7 +7,6 @@ My goal is to provide useful code that actually makes an impact, and to get eith
 You can reach me at:
 - nova@wittam.uk (<48hrs, encrypted)
 - novawittam@pm.me (<48hrs, encrypted)
-- @novaw:matrix.org (<12hrs)
 
 Feel free to sponsor me through GitHub Sponsorships, or at [https://monzo.me/novawittam](https://monzo.me/novawittam/5.00), if you like what I'm doing.
 
